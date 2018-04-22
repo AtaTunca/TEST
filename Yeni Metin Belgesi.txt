@@ -1,7 +1,7 @@
 <<<<<<< Updated upstream
 Edit Txt
 =======
-Develope 
+Developed 
 
 Edit Txt
 >>>>>>> Stashed changes
